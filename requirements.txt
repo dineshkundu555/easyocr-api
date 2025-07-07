@@ -1,5 +1,6 @@
 flask
-pytesseract
+easyocr
 Pillow
-requests
 gunicorn
+requests
+torch==2.0.1
